@@ -1,0 +1,19 @@
+# --- INFINITY XOS SECRET LOCK ---
+*.json
+.env
+.env.*
+credentials.json
+workspace-sa.json
+CredentialManager/
+
+# --- INFINITY-XOS SECRET LOCK ---
+*.json
+.env
+.env.*
+credentials.json
+workspace-sa.json
+CredentialManager/
+.secrets/
+
+# ignore local credentials
+.credentials/
